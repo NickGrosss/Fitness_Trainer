@@ -1,0 +1,43 @@
+Brust:
+
+Rücken:
+
+Bizeps:
+
+Trizeps:
+Schulter:
+
+	Beinheben am Boden
+	Beinheben Schrägbank
+	Crunch
+	Crunch am Gerät
+	Crunch am Seilzug
+	Hüftheben
+	Knieheben
+	Oberkörperbeugen mit Kurzhantel
+	Russian Twist
+	Seitplank
+	Seitliches Knieheben
+	Sit-Ups
+	Beinheben im Hang
+Beine:
+	Adduktion Maschine
+	Abduktion Maschine
+	Abduktion Kabel
+	Adduktion Kabel
+	Ausfallschritte
+	Ausfallschritte Kurzhantel
+	Ausfallschritte Langhantel
+	Beckenlift
+	Beinbeuger liegend 
+	Beinbeuger sitzend
+	Beinpresse
+	Beinstrecker
+	Bulgarian Split jumps
+	Squats
+	Hackenschmidt
+	Hüftstrecker
+	Sumo Deadlifts
+	Wadenheben Maschine
+	Wadenheben Langhantel
+	Wadenmaschine
